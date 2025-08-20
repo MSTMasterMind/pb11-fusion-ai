@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the <LICENSE> file for deta
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{taşkoyan2025pb11,
+@misc{taskoyan2025pb11,
     title={AI-Optimized p-B¹¹ Fusion Systems: Theoretical Framework and Applications},
     author={Mustafa Serkan Taşkoyan},
     journal={arXiv preprint arXiv:2408.XXXXX},
